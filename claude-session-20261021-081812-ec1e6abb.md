@@ -3,7 +3,7 @@ hyp: "claude-session"
 session: "285503a8-f5b2-4392-9417-76d12ae9d5f7"
 backend: "claude-code"
 started: "2026-10-21T08:18:12"
-updated: "2026-10-25T15:32:10"
+updated: "2026-10-27T07:12:21"
 title: "QM: MEAS: QBism: arXiv:1311.5253"
 model: "claude-opus-5-5"
 tokens_in: 130647

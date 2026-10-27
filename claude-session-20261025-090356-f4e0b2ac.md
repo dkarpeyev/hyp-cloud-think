@@ -3,7 +3,7 @@ hyp: "claude-session"
 session: "91bf1771-07e9-488b-832c-f5946e998ce7"
 backend: "claude-code"
 started: "2026-10-25T09:03:56"
-updated: "2026-10-25T15:32:11"
+updated: "2026-10-27T07:12:53"
 title: "TT: Sequents"
 model: "claude-opus-5-5"
 tokens_in: 33503

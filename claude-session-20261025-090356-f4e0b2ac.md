@@ -3,12 +3,8 @@ hyp: "claude-session"
 session: "91bf1771-07e9-488b-832c-f5946e998ce7"
 backend: "claude-code"
 started: "2026-10-25T09:03:56"
-updated: "2026-10-27T08:37:35"
+updated: "2026-10-28T07:39:10"
 title: "TT: Sequents"
-cloud: "session_01A2Yje23LepvFKk88Nv8Bz6"
-away: false
-cloud_seen: 0
-cloud_upto: 1
 model: "claude-opus-5-5"
 tokens_in: 33503
 tokens_out: 3813
